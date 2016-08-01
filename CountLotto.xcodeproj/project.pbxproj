@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		3296D1241D3B995900DF6786 /* main.c in Sources */ = {isa = PBXBuildFile; fileRef = 3296D1231D3B995900DF6786 /* main.c */; };
+		3296D1241D3B995900DF6786 /* CountLotto.c in Sources */ = {isa = PBXBuildFile; fileRef = 3296D1231D3B995900DF6786 /* CountLotto.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -24,7 +24,7 @@
 
 /* Begin PBXFileReference section */
 		3296D1201D3B995900DF6786 /* CountLotto */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = CountLotto; sourceTree = BUILT_PRODUCTS_DIR; };
-		3296D1231D3B995900DF6786 /* main.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = main.c; sourceTree = "<group>"; };
+		3296D1231D3B995900DF6786 /* CountLotto.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = CountLotto.c; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +57,7 @@
 		3296D1221D3B995900DF6786 /* CountLotto */ = {
 			isa = PBXGroup;
 			children = (
-				3296D1231D3B995900DF6786 /* main.c */,
+				3296D1231D3B995900DF6786 /* CountLotto.c */,
 			);
 			path = CountLotto;
 			sourceTree = "<group>";
@@ -118,7 +118,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3296D1241D3B995900DF6786 /* main.c in Sources */,
+				3296D1241D3B995900DF6786 /* CountLotto.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
